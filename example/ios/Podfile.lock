@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - lamp2 (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - lamp2 (from `.symlinks/plugins/lamp2/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  lamp2:
+    :path: ".symlinks/plugins/lamp2/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 434fef37c0980e73bb6479ef766c45957d4b510c
+  lamp2: 0873e9bbcb0a700aafae97b03106e546f59cbefd
+
+PODFILE CHECKSUM: aafe91acc616949ddb318b77800a7f51bffa2a4c
+
+COCOAPODS: 1.10.1
