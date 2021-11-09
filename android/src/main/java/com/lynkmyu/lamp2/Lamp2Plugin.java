@@ -1,4 +1,4 @@
-package com.example.lamp2;
+package com.lynkmyu.lamp2;
 
 import android.app.Activity;
 import android.content.Context;

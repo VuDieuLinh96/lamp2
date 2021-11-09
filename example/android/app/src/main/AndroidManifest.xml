@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.lamp2_example">
+    package="com.lynkmyu.lamp2_example">
    <application
         android:label="lamp2_example"
         android:icon="@mipmap/ic_launcher">

@@ -27,7 +27,7 @@ flutter:
   plugin:
     platforms:
       android:
-        package: com.example.lamp2
+        package: com.lynkmyu.lamp2
         pluginClass: Lamp2Plugin
       ios:
         pluginClass: Lamp2Plugin

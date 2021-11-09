@@ -1,4 +1,4 @@
-group 'com.example.lamp2'
+group 'com.lynkmyu.lamp2'
 version '1.0'
 
 buildscript {

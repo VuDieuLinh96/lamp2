@@ -1,4 +1,4 @@
-package com.example.lamp2_example;
+package com.lynkmyu.lamp2_example;
 
 import io.flutter.embedding.android.FlutterActivity;
 
